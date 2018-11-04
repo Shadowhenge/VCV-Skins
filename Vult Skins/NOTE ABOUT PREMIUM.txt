@@ -1,0 +1,3 @@
+Just to let you folks know... the premium and free modules use identical folders.
+The folders you download here will skin all of the free and premium modules,
+depending on which plugin folder you apply them to.
