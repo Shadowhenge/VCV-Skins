@@ -1,5 +1,12 @@
 ![VultThemes](VultThemes.png)
 
+Currently skins are available for the following module packs...
+
+Vult Modules: [modlfo](https://github.com/modlfo/VultModules)
+
+Modular Fungi Blank Plates: [david-c14](https://github.com/david-c14/ModularFungi)
+
+
 # VCV-Skins
 A repository of skins for various modules for VCV Rack
 
