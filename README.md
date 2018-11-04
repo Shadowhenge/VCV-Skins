@@ -17,3 +17,4 @@ Removal:
 1) If you are using a skin currently, rename the ../Rack/plugins/VultModulesFree/res folder to anything you like
 2) rename the original backup folder you made back to ../Rack/plugins/VultModulesFree/res
 3) delete unwanted skin folders.
+
