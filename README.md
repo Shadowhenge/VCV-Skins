@@ -1,3 +1,5 @@
+![VultThemes](VultThemes.png)
+
 # VCV-Skins
 A repository of skins for various modules for VCV Rack
 
