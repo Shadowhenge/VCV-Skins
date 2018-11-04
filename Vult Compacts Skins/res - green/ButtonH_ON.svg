@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="17px"
+   height="16px"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"
+   id="svg952"
+   sodipodi:docname="ButtonH_ON.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata956"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview954"
+   showgrid="false"
+   inkscape:zoom="52.5"
+   inkscape:cx="8.5"
+   inkscape:cy="8"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg952" />
+  <defs
+   id="defs945">
+    <linearGradient
+   id="_Linear1"
+   x1="0"
+   y1="0"
+   x2="1"
+   y2="0"
+   gradientUnits="userSpaceOnUse"
+   gradientTransform="matrix(0.0204328,-14.5763,14.522,0.0205092,16.5233,15.2726)">
+      <stop
+   offset="0"
+   style="stop-color:black;stop-opacity:1"
+   id="stop940" />
+      <stop
+   offset="1"
+   style="stop-color:rgb(220,220,220);stop-opacity:1"
+   id="stop942" />
+    </linearGradient>
+  </defs>
+  <path
+   id="path26849"
+   d="M16.527,3.608c0,-1.601 -1.299,-2.899 -2.898,-2.899l-10.257,0c-1.6,0 -2.9,1.298 -2.9,2.899l0,8.786c0,1.601 1.3,2.9 2.9,2.9l10.257,0c1.599,0 2.898,-1.299 2.898,-2.9l0,-8.786Z"
+   style="fill:url(#_Linear1);" />
+  <path
+   id="path26853"
+   d="M15.6,4.812c0,-1.745 -1.417,-3.162 -3.163,-3.162l-7.829,0c-1.745,0 -3.162,1.417 -3.162,3.162l0,6.326c0,1.745 1.417,3.162 3.162,3.162l7.829,0c1.746,0 3.163,-1.417 3.163,-3.162l0,-6.326Z"
+   style="fill:rgb(38,38,38);stroke:rgb(102,102,102);stroke-width:0.85px;" />
+  <path
+   id="path26857"
+   d="m 14.907,4.511 c 0,-1.143 -0.928,-2.069 -2.071,-2.069 H 4.21 c -1.143,0 -2.07,0.926 -2.07,2.069 v 6.932 c 0,1.143 0.927,2.07 2.07,2.07 h 8.626 c 1.143,0 2.071,-0.927 2.071,-2.07 z"
+   style="fill:#d6e8d6;stroke:#333333;stroke-width:0.85000002px"
+   inkscape:connector-curvature="0" />
+  <path
+   d="M7.345,7.398l1.981,0l0,-2.037l1.372,0l0,5.278l-1.372,0l0,-2.177l-1.981,0l0,2.177l-1.372,0l0,-5.278l1.372,0l0,2.037Z"
+   style="fill-rule:nonzero;"
+   id="path950" />
+</svg>

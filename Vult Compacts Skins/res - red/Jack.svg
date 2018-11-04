@@ -1,0 +1,15 @@
+<svg width="26px" height="24px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:8.5;">
+  <defs>
+    <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-0.158273,-23.3357,23.3357,-0.158273,13.4455,31.0218)">
+      <stop offset="0" style="stop-color:rgb(26,26,26);stop-opacity:1"/>
+      <stop offset="0.56" style="stop-color:rgb(158,158,158);stop-opacity:1"/>
+      <stop offset="1" style="stop-color:rgb(213,213,213);stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+  <path id="path2645" d="M7.248,23.225c-0.356,0 -0.774,-0.244 -0.949,-0.553l-5.713,-10.112c-0.175,-0.311 -0.175,-0.795 0,-1.105l5.713,-10.111c0.175,-0.311 0.593,-0.555 0.949,-0.555l11.413,0c0.356,0 0.774,0.244 0.949,0.555l5.713,10.111c0.175,0.31 0.175,0.794 0,1.105l-5.713,10.112c-0.175,0.309 -0.593,0.553 -0.949,0.553l-11.413,0Z" style="fill:rgb(146,146,146);fill-rule:nonzero;stroke:rgb(48,48,48);stroke-width:0.8px;"/>
+  <path id="path2648" d="M7.465,22.569c-0.339,0 -0.737,-0.229 -0.903,-0.52l-5.437,-9.493c-0.166,-0.292 -0.166,-0.746 0,-1.038l5.437,-9.492c0.166,-0.292 0.564,-0.521 0.903,-0.521l10.859,0c0.34,0 0.737,0.229 0.903,0.521l5.437,9.492c0.167,0.292 0.167,0.746 0,1.038l-5.437,9.493c-0.166,0.291 -0.563,0.52 -0.903,0.52l-10.859,0Z" style="fill:rgb(146,146,146);fill-rule:nonzero;stroke:rgb(183,181,181);stroke-width:0.76px;"/>
+  <path id="path2651" d="M7.74,22.577c-0.334,0 -0.724,-0.226 -0.888,-0.512l-5.351,-9.37c-0.164,-0.287 -0.164,-0.736 0,-1.023l5.351,-9.368c0.164,-0.288 0.554,-0.514 0.888,-0.514l10.687,0c0.334,0 0.725,0.226 0.889,0.514l5.35,9.368c0.164,0.287 0.164,0.736 0,1.023l-5.35,9.37c-0.164,0.286 -0.555,0.512 -0.889,0.512l-10.687,0Z" style="fill:url(#_Linear1);fill-rule:nonzero;stroke:rgb(115,115,115);stroke-width:0.74px;"/>
+  <ellipse id="circle2658" cx="12.991" cy="12.082" rx="7.992" ry="7.947" style="fill:rgb(109,109,109);stroke:rgb(57,57,57);stroke-width:1.01px;stroke-linejoin:round;stroke-miterlimit:1.41421;"/>
+  <path id="path2662" d="M6.19,12.083c0.019,3.793 3.031,6.819 6.809,6.836c3.758,-0.011 6.798,-3.058 6.794,-6.836c-0.003,-3.771 -3.044,-6.812 -6.794,-6.822c-3.771,0.017 -6.782,3.035 -6.809,6.822Z" style="fill:none;stroke:rgb(38,38,38);stroke-width:0.82px;"/>
+  <circle id="circle2665" cx="12.991" cy="12.082" r="5.499"/>
+</svg>
