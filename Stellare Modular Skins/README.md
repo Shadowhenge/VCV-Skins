@@ -1,4 +1,4 @@
-![StellareThemes](StellareThemes.png)
+![StellareThemes](StellareModularDemo.png)
 
 In order for the plugs to appear as they do in the screens...
 
