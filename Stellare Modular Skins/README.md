@@ -1,5 +1,6 @@
-![StellareThemes](Turing Black and Gold.png)
-![StellareThemes](Turing Grayscale.png)
+![StellareThemes](TuringBlackandGold.png)
+
+![StellareThemes](TuringGrayscale.png)
 
 In order for the plugs to appear as they do in the screens...
 
