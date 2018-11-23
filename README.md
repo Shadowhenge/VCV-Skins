@@ -6,6 +6,7 @@ Vult Modules: [modlfo](https://github.com/modlfo/VultModules)
 
 Modular Fungi Blank Plates: [david-c14](https://github.com/david-c14/ModularFungi)
 
+Stellare Modular: [stellare-modular] (https://github.com/stellare-modular/vcv-rack)
 
 # VCV-Skins
 A repository of skins for various modules for VCV Rack

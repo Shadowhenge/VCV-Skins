@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   width="73.93121"
+   height="73.93023"
+   viewBox="0 0 73.93121 73.93023"
+   version="1.1"
+   sodipodi:docname="TMKnobBig.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata4885">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4883" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1369"
+     inkscape:window-height="918"
+     id="namedview4881"
+     showgrid="false"
+     inkscape:zoom="10.723793"
+     inkscape:cx="36.965607"
+     inkscape:cy="36.965115"
+     inkscape:window-x="2216"
+     inkscape:window-y="36"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <title
+     id="title4872">TMKnobBig</title>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#2b2200"
+     d="M 0,36.96257 A 36.9656,36.9656 0 1 0 36.96662,0 36.96314,36.96314 0 0 0 0,36.96257"
+     id="SVGID" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#806600;stroke:#554400;stroke-width:2px;stroke-miterlimit:10"
+     d="m 31.39387,7.483 a 22.66151,22.66151 0 0 1 -14.03071,6.75557 7.17965,7.17965 0 0 0 -6.93589,8.69432 22.57787,22.57787 0 0 1 -3.46184,15.19111 7.17432,7.17432 0 0 0 2.47769,10.8409 22.65286,22.65286 0 0 1 9.70495,12.1755 7.18275,7.18275 0 0 0 10.02892,4.826 22.60939,22.60939 0 0 1 15.55991,0 7.17172,7.17172 0 0 0 10.0167,-4.826 A 22.70515,22.70515 0 0 1 64.46466,48.96489 7.17081,7.17081 0 0 0 66.94642,38.124 22.63623,22.63623 0 0 1 63.48255,22.93288 7.175,7.175 0 0 0 56.54055,14.23856 22.64327,22.64327 0 0 1 42.52,7.483 a 7.17489,7.17489 0 0 0 -11.12615,0"
+     data-name="SVGID"
+     id="SVGID-2" />
+  <line
+     id="line4876"
+     style="fill:none;stroke:#d4aa00;stroke-width:3px;stroke-miterlimit:10"
+     y2="7.0286002"
+     x2="37.302818"
+     y1="23.50135"
+     x1="37.302818" />
+</svg>
